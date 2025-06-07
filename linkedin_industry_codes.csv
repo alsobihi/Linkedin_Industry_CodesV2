@@ -452,7 +452,7 @@ Active Nodes,1262,Wholesale Petroleum and Petroleum Products,Wholesale > Wholesa
 Active Nodes,1153,Wholesale Photography Equipment and Supplies,Wholesale > Wholesale Photography Equipment and Supplies,This industry includes entities that distribute wholesale photographic equipment and supplies (except office equipment).
 Active Nodes,1250,Wholesale Raw Farm Products,Wholesale > Wholesale Raw Farm Products,"This industry includes entities that distribute wholesale agricultural products (except raw milk, live poultry, and fresh fruits and vegetables, which are in separate industries), such as grains, field beans, livestock, and other farm product raw materials (excluding seeds, which is in a separate industry)."
 Active Nodes,1206,Wholesale Recyclable Materials,Wholesale > Wholesale Recyclable Materials,"This industry includes entities that distribute wholesale automotive scrap, industrial scrap, and other recyclable materials. Included in this industry are auto wreckers that dismantle motor vehicles for the purpose of wholesaling scrap."
-Inactive Nodes,Industry ID,Label , Hierarchy,Description
+Active Nodes,Industry ID,Label,Hierarchy,Description
 Inactive Nodes,3215,Animation,This industry includes entities that produce and/or sell art made with a method in which figures are manipulated to appear as moving images.
 Inactive Nodes,3190,Apparel and Fashion,"This industry includes entities that design, manufacture, and distribute clothing and apparel."
 Inactive Nodes,3204,Arts and Crafts,"This industry includes entities that participate in economic activities related to the creation of goods by artisans or skilled craftspeople or the design, development, manufacturing, and distribution of craft supplies."
